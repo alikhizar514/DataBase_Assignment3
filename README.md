@@ -1,5 +1,6 @@
 #Group Assignment
 #Overview
+
 This is a group assignment with two students in a group based on the UEFA Champions League (UCL) case study. UCL is one of the biggest football competitions conducted by the Union of European Football Association. The dataset provided for this assignment contains information about UCL matches from 2016-2022. The goal of this assignment is to design SQL schema for the given dataset, identify the functional dependencies, apply normalization, load the data into the created tables, and write SQL queries to retrieve information from the tables.
 
 Case Study
