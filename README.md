@@ -1,15 +1,21 @@
 #Group Assignment
+
 #Overview
 
 This is a group assignment with two students in a group based on the UEFA Champions League (UCL) case study. UCL is one of the biggest football competitions conducted by the Union of European Football Association. The dataset provided for this assignment contains information about UCL matches from 2016-2022. The goal of this assignment is to design SQL schema for the given dataset, identify the functional dependencies, apply normalization, load the data into the created tables, and write SQL queries to retrieve information from the tables.
 
+
 Case Study
+
 UEFA Champions League (UCL) is one of the most viewed and anticipated football tournaments in the world. The assignment requires you to complete the following parts:
 
 Part #1 - Design (50 Marks)
 Design SQL Schema for the given dataset. Identify the Entities/Tables and corresponding columns, constraints, and primary keys. Also, identify the relationships between different Entities and map them through foreign keys correctly.
+
 Identify the functional dependencies in each table and classify them as a full functional or partial functional dependency.
+
 Identify the current normal form of each table using conditions studied in class and apply normalization to remove bad relations (if required). If you think, normalization is not required, justify it.
+
 Part #2 - Insertion (20 Marks)
 Download the provided dataset and load it into the created tables. You can use any utility for this purpose. Using individual insert queries for each row is not allowed (and possible) for the given dataset. Learn Data Loading from Excel sheet into SQL server by yourself. It is very easy to learn and use. You have to understand the type of data in a column while designing the schema. You can assume empty cells as NULL.
 
